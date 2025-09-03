@@ -8,17 +8,16 @@ This project was built as part of a **Coursera course** and reflects the **pract
 
 ## 📂 Project Structure
 
+```yaml
 ComputerVisionProject/
-├── vision_test.py # Main Python script
-├── image.json # JSON input with image URLs or paths
-├── requirements.txt # Python dependencies
-├── .env # Environment variables (not uploaded)
-├── .gitignore # Files to exclude from Git
-├── LICENSE # MIT license (optional)
-└── README.md # Project overview and instructions
-
-yaml
-Copy code
+├── vision_test.py       # Main Python script
+├── image.json           # JSON input with image URLs or paths
+├── requirements.txt     # Python dependencies
+├── .env                 # Environment variables (not uploaded)
+├── .gitignore           # Files to exclude from Git
+├── LICENSE              # MIT license (optional)
+└── README.md            # Project overview and instructions
+```
 
 ---
 
