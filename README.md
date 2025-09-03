@@ -74,6 +74,8 @@ azure-cognitiveservices-vision-computervision==0.7.0
 msrest==0.6.21
 requests==2.31.0
 python-dotenv==1.0.0
+```
+```bash
 To install them manually:
 ```
 
