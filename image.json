@@ -1,0 +1,9 @@
+{
+  "images": [
+    "https://learn.microsoft.com/azure/ai-services/computer-vision/media/quickstarts/presentation.png",
+    "https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC89d8PajfUfsQk1dsPDyiEPzYz-U5AkWpAA&s",
+    "https://example.com/nonexistent-image.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYma1Bqnm8cY8sZPAuHJdFqFyjB4IilypOjw&s"
+  ]
+}
