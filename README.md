@@ -68,20 +68,24 @@ The script will analyze the images and display results such as:
 
 ## 🧪 Requirements
 The project uses the following Python packages:
-
 ```ini
-azure-cognitiveservices-vision-computervision==0.7.0
-msrest==0.6.21
-requests==2.31.0
-python-dotenv==1.0.0
-```
-```bash
-To install them manually:
+azure-cognitiveservices-vision-computervision==0.7.0  
+msrest==0.6.21  
+requests==2.31.0  
+python-dotenv==1.0.0  # Optional: Only needed if using a .env file for credentials
 ```
 
+To install them manually:
 ```bash
-pip install azure-cognitiveservices-vision-computervision msrest requests python-dotenv
+pip install azure-cognitiveservices-vision-computervision msrest requests
 ```
+
+If you're using a .env file to manage your API keys or environment variables, include:
+
+```bash
+pip install python-dotenv
+```
+
 
 ## 📜 License
 This project is licensed under the MIT License.
