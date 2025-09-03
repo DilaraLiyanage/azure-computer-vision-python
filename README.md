@@ -102,9 +102,9 @@ Special thanks to:
 - OpenAI - for assisting in technical documentation.
 
 ## ✨ Author
-N. S. Dilara Liyanage
-BSc (Hons.) in Computer Science - SLIIT
-Passionate about ethical AI, ML, Data Science and sharing technical knowledge.
+- N. S. Dilara Liyanage
+- BSc (Hons.) in Computer Science - SLIIT
+- Passionate about ethical AI, ML, Data Science and sharing technical knowledge.
 
 ## 🔗 Connect with me:
 
