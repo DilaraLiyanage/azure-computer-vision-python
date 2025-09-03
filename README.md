@@ -13,9 +13,9 @@ ComputerVisionProject/
 ├── vision_test.py       # Main Python script
 ├── image.json           # JSON input with image URLs or paths
 ├── requirements.txt     # Python dependencies
-├── .env                 # Environment variables (not uploaded)
+├── .env                 # Environment variables
 ├── .gitignore           # Files to exclude from Git
-├── LICENSE              # MIT license (optional)
+├── LICENSE              # MIT license
 └── README.md            # Project overview and instructions
 ```
 
