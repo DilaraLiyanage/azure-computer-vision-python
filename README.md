@@ -97,13 +97,13 @@ This project was completed as part of the Azure Computer Vision course on Course
 
 ## 🙌 Acknowledgments
 Special thanks to:
-- Microsoft Azure — for providing the Computer Vision API.
-- Coursera — for offering a structured learning platform.
-- OpenAI — for assisting in technical documentation.
+- Microsoft Azure - for providing the Computer Vision API.
+- Coursera - for offering a structured learning platform.
+- OpenAI - for assisting in technical documentation.
 
 ## ✨ Author
 N. S. Dilara Liyanage
-BSc (Hons.) in Computer Science — SLIIT
+BSc (Hons.) in Computer Science - SLIIT
 Passionate about ethical AI, ML, Data Science and sharing technical knowledge.
 
 ## 🔗 Connect with me:
